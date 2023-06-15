@@ -6,7 +6,7 @@ body {
   canvas{display:block}
   h1 {
     position: absolute;
-    top: 20%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -18,8 +18,8 @@ body {
   }
   h2 {
     position: absolute;
-    top: 30%;
-    left: 43%;
+    top: 39%;
+    left: 44.3%;
     transform: translate(-50%, -50%);
     color: #fff;
     font-family: "Source Sans Pro";
